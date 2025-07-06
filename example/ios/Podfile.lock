@@ -1,0 +1,35 @@
+PODS:
+  - bluetooth_print_plus (2.4.6):
+    - Flutter
+    - GSDK (= 0.0.7)
+  - Flutter (1.0.0)
+  - GSDK (0.0.7)
+  - image_picker_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - bluetooth_print_plus (from `.symlinks/plugins/bluetooth_print_plus/ios`)
+  - Flutter (from `Flutter`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - GSDK
+
+EXTERNAL SOURCES:
+  bluetooth_print_plus:
+    :path: ".symlinks/plugins/bluetooth_print_plus/ios"
+  Flutter:
+    :path: Flutter
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+
+SPEC CHECKSUMS:
+  bluetooth_print_plus: 7fa236314a361796569ed4ebc65d159b00a2686a
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  GSDK: 65d54603da7bece31b433c0f34f8a52c4431dd08
+  image_picker_ios: 7fe1ff8e34c1790d6fff70a32484959f563a928a
+
+PODFILE CHECKSUM: 4305caec6b40dde0ae97be1573c53de1882a07e5
+
+COCOAPODS: 1.16.2
