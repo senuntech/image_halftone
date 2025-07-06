@@ -1,5 +1,5 @@
 name: image_halftone
-description: "A new Flutter package project."
+description: "This package transforms regular images into halftone-style images, ideal for thermal printing or creating stylized visual effects. Easy to integrate, with support for customizable patterns and contrast levels."
 version: 1.0.0
 homepage: https://github.com/senuntech/image_halftone
 
