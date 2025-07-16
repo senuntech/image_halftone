@@ -4,7 +4,7 @@
 ````
  final imageFilter = await convertImageToHalftoneBlackAndWhite(img);
 ````
-
+<p align="center"><img src="https://github.com/user-attachments/assets/8c1c8319-faca-452a-9187-b81c4cf90eda" alt="appBar preview"></p>
 
 ![Image](https://github.com/user-attachments/assets/a8952e4e-6743-4453-913f-2a34bbb0cc0a)
 ![Image](https://github.com/user-attachments/assets/8c1c8319-faca-452a-9187-b81c4cf90eda)
